@@ -16,5 +16,6 @@ LANGUAGES AND SCRIPTS AND ETC TO PRACTICE LIST:
   <li type="square">HTML: COMING SOON</li>
   <li type="square">CSS: COMING SOON</li>
   <li type="square">Swift: COMING SOON</li>
+  <li type="square">Ruby: COMING SOON</li>
   <li type="square">EmojiCode: ./EmojiCode</li>
 </ul>
